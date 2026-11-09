@@ -1,53 +1,50 @@
-# Olá, sou a Bárbara Pereira 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,19,25,31&height=220&section=header&text=Bárbara%20Lima%20Pereira&fontSize=42&fontAlignY=38&desc=Software%20Quality%20Specialist%20%7C%20Digital%20Core%20%7C%20CoE%20Lead&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
+</div>
 
-### 🎯 Especialista em Qualidade de Software | Brisanet (Gerência Executiva Digital Core)
+<div align="center">
+  <a href="https://www.linkedin.com/in/bárbara-lima/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bárbara_Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/barbara-pereira-brisanet">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Foco-Qualidade_%7C_Observabilidade_%7C_FinOps-00C7B7?style=for-the-badge" />
+</div>
 
-Atuo com foco em assegurar confiabilidade, qualidade contínua e escalabilidade em sistemas de missão crítica. Faço parte da equipe de **Digital Core** na **Brisanet**, desenhando estratégias de automação e testes de ponta a ponta para sustentar ecossistemas de telecomunicações de alto volume.
+<br/>
 
----
+### 🛰️ Sobre Mim & Atuação Profissional
 
-### 🚀 Sobre Mim & Foco Técnico
+> *"Conectando engenharia de software, qualidade contínua e eficiência de custos em ecossistemas de missão crítica."*
 
-- 🏢 **Atuação:** Brisanet Serviços de Telecomunicações — *Gerência Executiva Digital Core*
-- 💡 **Abordagem de QA:** *Shift-left testing*, qualidade preventiva, automação estruturada e observabilidade.
-- ⚙️ **Áreas de Domínio:**
-  - Pirâmide de testes e estratégias de automação (E2E, API, Contrato e Performance).
-  - Testes em arquiteturas de microsserviços, mensageria e sistemas *core*.
-  - Integração contínua (CI/CD) com gates de qualidade (SonarQube).
-  - Métricas de confiabilidade, análise de cobertura e melhoria contínua de esteiras.
+Sou **Especialista em Qualidade de Software** na **Brisanet Serviços de Telecomunicações**, inserida na **Gerência Executiva Digital Core**. Minha atuação atual é focada na estruturação e condução do **Centro de Excelência (CoE)**, unindo governança de qualidade, cultura de resiliência e otimização financeira de operações tecnológicas.
 
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-![Automação](https://img.shields.io/badge/Automação-Cypress%20|%20Playwright%20|%20Selenium-007ACC?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API%20Testing-Postman%20|%20RestAssured%20|%20k6-orange?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitLab%20CI%20|%20GitHub%20Actions-2088FF?style=for-the-badge)
-![Qualidade](https://img.shields.io/badge/Quality%20Gates-SonarQube%20|%20Allure%20Report-success?style=for-the-badge)
-
-<p align="left">
-  <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java" alt="Linguagens" />
-  &nbsp;&nbsp;
-  <!-- Frameworks e Ferramentas de QA -->
-  <img src="https://skillicons.dev/icons?i=cypress,postman,git,github,gitlab" alt="Ferramentas QA" />
-  &nbsp;&nbsp;
-  <!-- Infra e DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker,k8s,linux" alt="DevOps" />
-</p>
+Minha trajetória técnica conta com base sólida em **Engenharia de Software**:
+- 📱 **Mobile Development:** Experiência prática no ecossistema nativo Apple desenvolvendo em **Swift (iOS)**, garantindo arquitetura limpa e performance de ponta a ponta.
+- ⚙️ **Backend Engineering:** Construção e integração de serviços robustos, APIs RESTful e microsserviços.
+- 🧪 **Evolução em QA:** Transição de testes manuais exploratórios para o desenho de arquiteturas completas de automação (E2E e contratos/APIs).
+- 📈 **Governança & Estratégia Atual:** Liderança técnica no CoE com pilares em **Shift-Left Testing**, padrões de **Observabilidade** e práticas de **FinOps** (gestão de custos e consumo computacional).
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🌐 Áreas de Foco no Digital Core & CoE
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=barbara-pereira-brisanet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-pereira-brisanet&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
+```mermaid
+mindmap
+  root((Digital Core & CoE))
+    Qualidade & Shift-Left
+      Estratégia de Automação E2E / API
+      Pirâmide de Testes Contínua
+      Quality Gates em CI/CD
+    Observabilidade
+      Métricas de Resiliência Sistêmica
+      Monitoramento Contínuo
+      Telemetria em Microsserviços
+    FinOps & Eficiência
+      Otimização de Custos de Cloud/Infra
+      Eficiência Computacional em Pipelines
+      Redução de Desperdício Operacional
+    Engenharia de Origem
+      Background em Backend & Microsserviços
+      Mobile Nativo com Swift (iOS)
